@@ -1,7 +1,6 @@
-﻿<Application x:Class="bth_control.App"
+﻿<Application x:Class="auto_curtain_controller.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:bth_control"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace bth_control
+namespace auto_curtain_controller
 {
     /// <summary>
     /// App.xaml 的交互逻辑

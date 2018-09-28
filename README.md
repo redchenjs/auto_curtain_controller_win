@@ -1,1 +1,1 @@
-# Windows client for auto curtain controller
+# Windows Client for Auto Curtain Controller

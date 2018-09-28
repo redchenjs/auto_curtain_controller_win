@@ -1,9 +1,13 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bth_control", "bth_control\bth_control.csproj", "{2AB30F75-6A0E-4280-BE35-3E9E274AEAA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auto_curtain_controller", "auto_curtain_controller\auto_curtain_controller.csproj", "{2AB30F75-6A0E-4280-BE35-3E9E274AEAA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{350B0AC8-BF99-40F4-953F-5F7DD30A45A9}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +22,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A3A72A-FFED-4EA7-8D83-3E9D5F315B59}
 	EndGlobalSection
 EndGlobal
